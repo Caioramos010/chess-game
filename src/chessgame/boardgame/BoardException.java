@@ -1,4 +1,4 @@
-package boardgame;
+package chessgame.boardgame;
 
 public class BoardException extends RuntimeException{
     private static final long serialVersionUID = 1L;

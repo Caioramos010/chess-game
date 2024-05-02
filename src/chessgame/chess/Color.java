@@ -1,4 +1,4 @@
-package chess;
+package chessgame.chess;
 
 public enum Color {
 
